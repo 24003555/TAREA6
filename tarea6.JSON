@@ -1,0 +1,25 @@
+{
+  "alumnos": [
+    {
+      "carnet": "2021001",
+      "nombres": "Juan",
+      "apellidos": "Pérez",
+      "edad": 22,
+      "correo": "juan.perez@example.com"
+    },
+    {
+      "carnet": "2021002",
+      "nombres": "Maria",
+      "apellidos": "González",
+      "edad": 23,
+      "correo": "maria.gonzalez@example.com"
+    },
+    {
+      "carnet": "2021003",
+      "nombres": "Carlos",
+      "apellidos": "Ruiz",
+      "edad": 21,
+      "correo": "carlos.ruiz@example.com"
+    }
+  ]
+}
